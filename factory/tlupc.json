@@ -1,0 +1,9 @@
+{
+	"name": "tlupc",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c68c5a45-cbc6-427f-895f-8daebbabaa87",
+		"tenantId": "bbbe2244-2171-43a1-a10d-d943ab24505e"
+	}
+}
